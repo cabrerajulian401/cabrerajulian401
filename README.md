@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian Cabrera</h1>
 <h2 align="center">A Driven Software Developer</h2>
 
-#### - 💻 I’m currently building [LLM NLP Research Models at SMU](https://github.com/cabrerajulian401/LLM_Sentiment_Research-)
+#### - 💻 I’m currently building [LLM NLP/RAG Research Models at SMU](https://github.com/cabrerajulian401/LLM_Sentiment_Research-)
 
 #### - 🤖 I’m currently employed  in **AI & Data Science Research at SMU**
 
