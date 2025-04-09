@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Cbarera</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Driven Software Developer</h3>
 
 - 🔭 I’m currently working on [LLM NLP Research at SMU](https://github.com/cabrerajulian401/LLM_Sentiment_Research-)
 
