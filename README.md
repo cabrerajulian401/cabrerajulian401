@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Julian Cbarera</h1>
-<h3 align="center">A Driven Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Julian Cabrera</h1>
+<h2 align="center">A Driven Software Developer</h2>
 
-- 🔭 I’m currently working on [LLM NLP Research at SMU](https://github.com/cabrerajulian401/LLM_Sentiment_Research-)
+#### - 💻 I’m currently building [LLM NLP Research Models at SMU](https://github.com/cabrerajulian401/LLM_Sentiment_Research-)
 
-- 🌱 I’m currently working in **AI & Data Science Research at SMU**
+#### - 🤖 I’m currently employed  in **AI & Data Science Research at SMU**
 
-- 🤝 I’m looking for **2025 Summer SWE/SWD Opportunities** particularly a **startup position**
+#### - 🤝 I’m looking for **2025 Summer SWE/SWD Opportunities** particularly a **startup position**
 
-- 💬 Talk to me about **Machine Learning** & **Agentic AI Models**
+#### - 💬 Talk to me about **Machine Learning** & **Agentic AI Models**. I am extremely passionate about AI Engineering!
 
-- 📫 Contact me at **jrcabrera@smu.edu**
+#### - 📫 Contact me at **jrcabrera@smu.edu**
 
-- 📄 Know about my experiences [https://example.com/julian_resume_37.pdf](https://example.com/julian_resume_37.pdf)
+#### - 📄 Know about my experiences [https://example.com/julian_resume_37.pdf](https://example.com/julian_resume_37.pdf)
 
-- ⚡ Fun fact: **I  teach 20 students how to code & post my lectures on YouTube!**
+#### - ⚡ Fun fact: **I  teach 20 students how to code & post my lectures on YouTube!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +28,5 @@
 ![Julian presenting research at SMU](./julian-research-award.png)
 
 
-
-
+### Research Poster Project above is my [Award Winning SMU AI LLM Research](https://github.com/cabrerajulian401/2ndPlace-SMU-LLM-Research-)
 
