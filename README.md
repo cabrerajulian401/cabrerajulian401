@@ -3,7 +3,7 @@
 
 #### - 💻 I’m currently building [NLP/RAG Models for LLM Research at SMU](https://github.com/cabrerajulian401/LLM_Sentiment_Research-)
 
-#### - 🤖 I’m currently employed  in **AI & Data Science Research at SMU**
+#### - 🤖 I’m currently employed as the CTO of Timio News & working in AI/Data Science Research at SMU
 
 #### - 🤝 I’m looking for **2025 Summer SWE/SWD Opportunities** particularly a **startup position**
 
