@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian Cabrera</h1>
 <h2 align="center">A Driven Software Developer</h2>
 
-#### - 💻 I’m currently building [NLP/RAG Models for LLM Research at SMU](https://github.com/cabrerajulian401/LLM_Sentiment_Research-)
-
+#### - 💻 I’m currently building Timio News 
 #### - 🤖 I’m currently employed as the CTO of Timio News & AI/Data Science Research at SMU
 
 #### - 🤝 I’m looking for **2025 Summer SWE/SWD Opportunities** particularly a **startup position**
