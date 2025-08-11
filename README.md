@@ -3,17 +3,16 @@
 
 #### - Check out my Online Portfolio! -> https://juliancabrera.info
 #### - 💻 I’m currently building Timio News 
+
 #### - 🤖 I’m currently employed as the CTO of Timio News & AI/Data Science Research at SMU
 
-#### - 🤝 I’m looking for **2025 Summer SWE/SWD Opportunities** particularly a **startup position**
+#### - 🤝 I’m looking for **2026 Summer SWE/SWD Opportunities** 
 
-#### - 💬 Talk to me about **Machine Learning** & **Agentic AI Models**. I am extremely passionate about AI Engineering!
+#### - 💬 Talk to me about **Backend Engineering** & **Agentic AI Models**. I am extremely passionate about AI Engineering!
 
 #### - 📫 Contact me at **jrcabrera@smu.edu**
 
-#### - 📄 Know about my experiences [https://example.com/julian_resume_37.pdf](https://example.com/julian_resume_37.pdf)
-
-#### - ⚡ Fun fact: **I  teach 20 students how to code & post my lectures on YouTube!**
+#### - ⚡ Fun fact: **I taught 20 students how to code & post my lectures on YouTube!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
