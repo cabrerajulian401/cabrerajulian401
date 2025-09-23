@@ -4,7 +4,7 @@
 #### - Check out my Online Portfolio! -> https://juliancabrera.info
 #### - 💻 I’m currently building Timio News 
 
-#### - 🤖 I’m currently employed as the CTO of Timio News & AI/Data Science Research at SMU
+#### - 🤖 I’m currently a SWE Intern at Yendo!
 
 #### - 🤝 I’m looking for **2026 Summer SWE/SWD Opportunities** 
 
