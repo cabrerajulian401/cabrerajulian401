@@ -8,7 +8,7 @@
 
 #### - 🤝 I’m looking for **2026 Summer SWE/SWD Opportunities** 
 
-#### - 💬 Talk to me about **Backend Engineering** & **Agentic AI Models**. I am extremely passionate about AI Engineering!
+#### - 💬 Talk to me about **Backend Engineering** & **Agentic AI Models**. I am extremely passionate about Backend Engineering!
 
 #### - 📫 Contact me at **jrcabrera@smu.edu**
 
