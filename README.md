@@ -75,6 +75,9 @@
 </p>
 
 
+[![Julians's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabrerajulian401)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Julian presenting research at SMU](./julian-research-award.png)
 
