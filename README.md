@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Julian Cabrera</h1>
-<h2 align="center">A Driven Software Developer</h2>
+<h2 align="center"> SWE & Financial Mathematics</h2>
 
 #### - Check out my Online Portfolio! -> https://juliancabrera.info
-#### - 💻 I’m currently building Timio News 
 
 #### - 🤖 I’m currently a SWE Intern at Yendo!
 
-#### - 🤝 I’m looking for **2026 Summer SWE/SWD Opportunities** 
+#### - 🤝 I’m looking for **2027 Summer SWE/Trading/Quant Opportunities** 
 
-#### - 💬 Talk to me about **Backend Engineering** & **Agentic AI Models**. I am extremely passionate about Backend Engineering!
-
+#### - 💬 Talk to me about **Backend Engineering** & **Trading**
 #### - 📫 Contact me at **jrcabrera@smu.edu**
 
-#### - ⚡ Fun fact: **I taught 20 students how to code & post my lectures on YouTube!**
+#### - ⚡ Fun fact: **I was the first intern hire at a Series B Company - Yendo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,21 +64,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-  </a>
 </p>
-
-
-[![Julians's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabrerajulian401)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![Julian presenting research at SMU](./julian-research-award.png)
-
-
-### Research Poster Project above is my [Award Winning SMU AI LLM Research](https://github.com/cabrerajulian401/2ndPlace-SMU-LLM-Research-)
 
