@@ -3,7 +3,7 @@
 
 #### - Check out my Online Portfolio! -> https://juliancabrera.info
 
-#### - 🤖 I’m currently a SWE Intern at Yendo!
+#### - Previous Experience: Yendo SWE, AI Research at SMU, CTO of ThirdEye & Timio News
 
 #### - 🤝 I’m looking for **2027 Summer SWE/Trading/Quant Opportunities** 
 
