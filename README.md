@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian Cabrera</h1>
 <h2 align="center"> SWE & Trading</h2>
 
-#### - Check out my Online Portfolio! -> https://juliancabrera.info
-
 #### - Previous Experience: Yendo SWE, AI Research at SMU, CTO of ThirdEye & Timio News
 
 #### - 🤝 I’m looking for **2027 Summer SWE/Trading/Quant Opportunities** 
