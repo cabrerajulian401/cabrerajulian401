@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Cabrera</h1>
-<h2 align="center"> SWE & Financial Mathematics</h2>
+<h2 align="center"> SWE & Trading</h2>
 
 #### - Check out my Online Portfolio! -> https://juliancabrera.info
 
